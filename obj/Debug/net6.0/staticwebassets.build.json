@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "96cBZxF3PxJoSRUCwQWUHJDZ/flSqIIn1AosK2SEqAM=",
+  "Source": "TPC_API",
+  "BasePath": "_content/TPC_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
